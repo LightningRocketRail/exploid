@@ -1,0 +1,89 @@
+body {
+  background-color: #e23f22;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  color: #ecfcff;
+  font-size: 100px;
+  font-family: 'Big Shoulders Stencil Text', cursive;
+  /* font-family: 'Goldman', cursive;
+  font-family: 'Sacramento', cursive; */
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #000000;
+  position: relative;
+}
+
+.h1_styletransfer {
+  background-color: #ecfcff;
+  margin-top: 0;
+  font-size: 50px;
+}
+
+.middle-container {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.bottom-container {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+.AI {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.okimready {
+  font-size: 30px;
+}
+
+.step1to4 {
+  font-size: 30px;
+}
+
+.step2to4 {
+  font-size: 30px;
+}
+
+.step3to4 {
+  font-size: 30px;
+}
+
+.step4to4 {
+  font-size: 30px;
+}
+
+.top_desy_logo {
+  padding: 0px;
+}
+
+.style_transfer_img {
+  display: block;
+  margin: 0 auto;
+}
+
+.style_transfer_flowchart {
+  display: block;
+  margin: 0 auto;
+}
+
+.ignoretheboxes {
+  margin-top: 500px;
+  margin-right: 1300px;
+}
